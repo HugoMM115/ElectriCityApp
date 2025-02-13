@@ -17,7 +17,7 @@ Descarga la última versión de ElectricityApp desde el siguiente enlace:
 
 ## 💬 Feedback  
 Tu opinión es importante para nosotros. Completa el formulario de feedback tras la instalación:  
-🔗 [Dejar Feedback](https://forms.gle/FdsWhVRcgH6v1iEM6)  
+🔗 [Dejar Feedback](https://forms.gle/Gne8K31tTsAwTjG16)  
 
 ## 📜 Licencia  
 Proyecto desarrollado por **ElectriCity S.L.**.  
