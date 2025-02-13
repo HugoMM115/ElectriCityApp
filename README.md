@@ -1,21 +1,23 @@
-ElectricityApp
-ElectricityApp es una aplicación diseñada para gestionar y visualizar datos eléctricos de manera sencilla y eficiente. Con esta herramienta podrás realizar diversas tareas relacionadas con el consumo de electricidad, visualización de gráficas y estadísticas, todo desde una interfaz amigable.
+# ⚡ ElectricityApp
 
-Características
-Visualización de datos en tiempo real.
-Gráficas estadísticas del consumo.
-Interfaz fácil de usar.
-Instalación
-1. Descargar el Instalador
-Puedes descargar el instalador de ElectricityApp desde el archivo que hay en el repositorio
+**ElectricityApp** es una aplicación diseñada para ayudarte a gestionar y visualizar tu consumo eléctrico de manera eficiente.  
 
-2. Ejecutar el Instalador
-Una vez descargado el archivo, simplemente descomprimelo, ejecútalo y sigue los pasos del asistente de instalación para completar la instalación en tu sistema.
+## 🌍 Página Oficial  
+Puedes visitar la página web de la aplicación aquí:  
+🔗 **[ElectricityApp - Página Oficial](https://TUNOMBREDEUSUARIO.github.io/TUREPOSITORIO/)**  
 
-Desinstalación
-Para desinstalar ElectricityApp, puedes utilizar el desinstalador proporcionado en el menú de inicio o directamente desde el panel de control de Windows.
+## 📥 Descargar Instalador  
+Descarga la última versión de ElectricityApp desde el siguiente enlace:  
+🔗 [Descargar Instalador](https://drive.google.com/file/d/1_ETozsPb5OF_RQ4FNR2T41W9x4BvGhd5/view?usp=sharing)  
 
-Feedback
-¡Gracias por usar ElectricityApp! Si tienes sugerencias o comentarios, por favor completa nuestro formulario de feedback después de la desinstalación:
+## 🛠 Características  
+✔ Visualización en tiempo real del consumo eléctrico.  
+✔ Generación de informes detallados.  
+✔ Interfaz moderna y fácil de usar.  
 
-Formulario de Feedback
+## 💬 Feedback  
+Tu opinión es importante para nosotros. Completa el formulario de feedback tras la instalación:  
+🔗 [Dejar Feedback](https://forms.gle/FdsWhVRcgH6v1iEM6)  
+
+## 📜 Licencia  
+Proyecto desarrollado por **ElectriCity S.L.**.  
