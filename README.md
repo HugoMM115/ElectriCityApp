@@ -1,58 +1,21 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ElectricityApp</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f9;
-            text-align: center;
-            padding: 20px;
-        }
-        .container {
-            width: 80%;
-            margin: 0 auto;
-        }
-        .btn {
-            background-color: #4CAF50;
-            color: white;
-            padding: 12px 20px;
-            text-align: center;
-            display: inline-block;
-            font-size: 16px;
-            margin-top: 20px;
-            cursor: pointer;
-            border-radius: 5px;
-            text-decoration: none;
-        }
-        .btn:hover {
-            background-color: #45a049;
-        }
-    </style>
-</head>
-<body>
+ElectricityApp
+ElectricityApp es una aplicación diseñada para gestionar y visualizar datos eléctricos de manera sencilla y eficiente. Con esta herramienta podrás realizar diversas tareas relacionadas con el consumo de electricidad, visualización de gráficas y estadísticas, todo desde una interfaz amigable.
 
-    <div class="container">
-        <h1>Bienvenido a ElectricityApp</h1>
-        <p>La aplicación para gestionar el consumo de electricidad.</p>
-        <p>Descarga el instalador a continuación para comenzar.</p>
+Características
+Visualización de datos en tiempo real.
+Gráficas estadísticas del consumo.
+Interfaz fácil de usar.
+Instalación
+1. Descargar el Instalador
+Puedes descargar el instalador de ElectricityApp desde el archivo que hay en el repositorio
 
-        <!-- Enlace de descarga (asegúrate de tener el enlace correcto) -->
-        <a href="https://drive.google.com/tu-enlace-de-google-drive" class="btn">Descargar Instalador</a>
+2. Ejecutar el Instalador
+Una vez descargado el archivo, simplemente descomprimelo, ejecútalo y sigue los pasos del asistente de instalación para completar la instalación en tu sistema.
 
-        <h3>Características:</h3>
-        <ul>
-            <li>Visualización de datos de consumo de electricidad</li>
-            <li>Generación de informes y estadísticas</li>
-            <li>Interfaz fácil de usar</li>
-        </ul>
+Desinstalación
+Para desinstalar ElectricityApp, puedes utilizar el desinstalador proporcionado en el menú de inicio o directamente desde el panel de control de Windows.
 
-        <h3>¿Tienes algún comentario?</h3>
-        <p>¡Nos encantaría saber tu opinión! Por favor completa nuestro formulario de feedback tras la instalación.</p>
-        <a href="https://forms.gle/FdsWhVRcgH6v1iEM6" class="btn">Deja tu Feedback</a>
-    </div>
+Feedback
+¡Gracias por usar ElectricityApp! Si tienes sugerencias o comentarios, por favor completa nuestro formulario de feedback después de la desinstalación:
 
-</body>
-</html>
+Formulario de Feedback
