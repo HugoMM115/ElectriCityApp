@@ -4,7 +4,7 @@
 
 ## 🌍 Página Oficial  
 Puedes visitar la página web de la aplicación aquí:  
-🔗 **[ElectricityApp - Página Oficial](https://TUNOMBREDEUSUARIO.github.io/TUREPOSITORIO/)**  
+🔗 **[ElectricityApp - Página Oficial](https://hugomm115.github.io/ElectriCityApp/)**  
 
 ## 📥 Descargar Instalador  
 Descarga la última versión de ElectricityApp desde el siguiente enlace:  
